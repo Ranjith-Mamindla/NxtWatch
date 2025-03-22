@@ -1,5 +1,10 @@
 In this project, I've bulid **Nxt Watch** by applying the concepts I know.
 
+Here is the link for the preview:https://ranjitmnxtwatch.ccbp.tech/login
+Login Credentials:-
+username:rahul 
+password:rahul@2021
+
 
 **Success View** <br/>
 
